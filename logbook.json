@@ -1,0 +1,74 @@
+[
+    {
+        "when": "2023-11-21T04:09:33.523796+00:00",
+        "state": "off",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T04:19:12.594111+00:00",
+        "state": "on",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T04:30:38.707794+00:00",
+        "state": "off",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:04:00.480354+00:00",
+        "state": "on",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:10:08.056546+00:00",
+        "state": "off",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:10:10.639408+00:00",
+        "state": "unavailable",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:10:16.770803+00:00",
+        "state": "off",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:10:40.190995+00:00",
+        "state": "unavailable",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:43:32.216190+00:00",
+        "state": "on",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:50:17.733888+00:00",
+        "state": "off",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:51:00.738133+00:00",
+        "state": "on",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    },
+    {
+        "when": "2023-11-21T05:54:57.458332+00:00",
+        "state": "unavailable",
+        "entity_id": "binary_sensor.pantry_area_pantry_occupancy",
+        "name": "Pantry Area Pantry Occupancy"
+    }
+]
